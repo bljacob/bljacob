@@ -1,6 +1,6 @@
 # Introduction
 
-👋 Hello everyone! My name is Benjamin Jacob, using GitHub @bljacob!  
+👋 Hello everyone! My name is Benjamin Jacob, using GitHub [@bljacob](https://github.com/bljacob)!  
 👀 I’m interested in learning physics, chemistry, and mathematics.  
 🌱 I’m currently learning how to improve my sleep schedule because it's broken.  
 💞️ I’m looking to collaborate on teaching mathematics and basic projects!  
